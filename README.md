@@ -1,0 +1,3 @@
+- Hola soy @ThePira0542k
+- 👀 Estoy interesado en aprender a programar en Python, Java
+- 🌱 Actualmente estoy aprendiendo Python
