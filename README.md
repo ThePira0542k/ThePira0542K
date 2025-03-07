@@ -11,7 +11,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=I'm+a+Trainee+Developer...)](https://git.io/typing-svg)
 
 <h2>Acerca de Mí</h2>
-  <img align="right" width=450px alt="Night City" src="https://github.com/user-attachments/assets/bab04d5e-0247-4aca-8577-58066f0d9e16">
+  <img src="https://github.com/ThePira0542k/ThePira0542K/blob/Prueba/Night%20City.gif" alt="Night City" width=450px align="right">
+
+  
 <h3>  Soy un estudiante de Desarrollo de Software.</h3>
 <p>Actualmente he aprendido lo basico de:
 <br>C++, Python, Java, HTML, y SQL.<br>
