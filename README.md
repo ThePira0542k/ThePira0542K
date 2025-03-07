@@ -6,11 +6,11 @@
 </head>
 <body>
   
-<h1 align="center"><b>Hi , I'm ThePira0542K </b><img src="https://github.com/user-attachments/assets/2a7d21d9-c021-4798-9c06-fba7cca738dc" width=50px></h1>
+<h1 align="center"><b>Hola , Soy ThePira0542K </b><img src="https://github.com/user-attachments/assets/2a7d21d9-c021-4798-9c06-fba7cca738dc" width=50px></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=I'm+a+Trainee+Developer...)](https://git.io/typing-svg)
 
-<h2>About Me</h2>
+<h2>Acerca de Mí</h2>
   <img align="right" width=450px alt="Night City" src="https://github.com/user-attachments/assets/bab04d5e-0247-4aca-8577-58066f0d9e16">
 <h3>  Soy un estudiante de Desarrollo de Software.</h3>
 <p>Actualmente he aprendido lo basico de:
